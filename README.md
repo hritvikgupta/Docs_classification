@@ -1,4 +1,4 @@
-* This Is Deep learning base Text Document identifier. For Example if some paper is about politics it will identify it as a political paper, similarly with other types of documents
+* This Is NLP base Text Document identifier. For Example if some paper is about politics it will identify it as a political paper, similarly with other types of documents
 
 * Steps involved:-
 
