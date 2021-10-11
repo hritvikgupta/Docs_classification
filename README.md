@@ -1,6 +1,7 @@
 * This Is Deep learning base Text Document identifier. For Example if some paper is about politics it will identify it as a political paper, similarly with other types of documents
 
 * Steps involved:-
+
       * 1). Convert the image into the Text using OCR
       * 2). Cleaning text.
       * 3)  Making the text embedding
