@@ -1,7 +1,8 @@
 ## Document Classification
-Document Classification is a NLP application which trains Neural Network to recognize different documents based on text and images present in them. Therefore Natural Langauge processing plays a vital role in converting the text to feature present in images alongside converting images into feature array using OCR. PyTesseract is used to convert images into image array.
+Document Classification is a NLP application which trains Neural Network to recognize different documents based on text and images present in them. Therefore Natural Langauge processing plays a vital role in converting the text to feature present in images alongside converting images into feature array using OCR. PyTesseract is used to convert images into image array and extracting the text in them. And Further classifying them based on trained model
 
-#### Dataset: BBC new dataset consist of the categories Tech, Bussiness, Sports, Politics and Entertainment. 
+#### Dataset: 
+             * BBC new dataset consist of the categories Tech, Bussiness, Sports, Politics and Entertainment. 
              * Train Dataset: 1490 records
              * Test Dataset:  736
              
