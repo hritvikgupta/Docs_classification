@@ -1,5 +1,5 @@
 ## Document Classification
-
+Document Classification is a NLP application which trains Neural Network to recognize different documents based on text and images present in them. Therefore Natural Langauge processing plays a vital role in converting the text to feature present in images alongside converting images into feature array/
 
 
 
