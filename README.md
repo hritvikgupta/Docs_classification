@@ -7,8 +7,10 @@ Document Classification is a NLP application which trains Neural Network to reco
              * Test Dataset:  736
              
 https://www.kaggle.com/c/learn-ai-bbc/data?select=BBC+News+Train.csv
-
-*** Flask is used to create the front end of the application then it is connected with model.h5 file which is the trained model where prediction is redirected to the same page only ***
+Front-End :- 
+            Flask is used to create the front end of the application then it is connected with model.h5 file which is the trained model where prediction is redirected to the same page only.
+            
+ Back-End NLP Application:- 
 
 * Steps involved:-
 
